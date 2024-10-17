@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@contentful/app-sdk": "4.29.1",
-    "@contentful/f36-components": "4.74.0",
+    "@contentful/f36-components": "4.74.1",
     "@contentful/f36-tokens": "4.1.0",
     "@contentful/react-apps-toolkit": "1.2.16",
     "contentful-management": "11.35.1",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@contentful/app-scripts": "1.29.0",
-    "@testing-library/jest-dom": "^6.5.0",
+    "@testing-library/jest-dom": "^6.6.1",
     "@testing-library/react": "16.0.1",
     "@types/node": "18.15.3",
     "@types/react": "18.3.11",
